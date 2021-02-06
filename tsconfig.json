@@ -33,6 +33,6 @@
 		"excludeExternals": true,
 		"excludePrivate": true,
 		"excludeProtected": true,
-		"excludeNotExported": true
+		"excludeNotExported": true,
 }
 }
